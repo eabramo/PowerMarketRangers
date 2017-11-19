@@ -55,5 +55,3 @@ test %>%
          rt_load = (load_MW - total_dh),
          pct_rt = rt_load/total_dh) %>%
   summary()
-  
-psych
